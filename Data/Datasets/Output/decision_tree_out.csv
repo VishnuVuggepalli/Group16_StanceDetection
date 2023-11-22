@@ -1,0 +1,302 @@
+Target,Model,Dataset,F1,Accuracy,Count of Pro,Count of Neutral,Count of Against
+Obamacare Exemptions to Mandatory Insurance,decision tree,Original,100.0,1.0,3,0,0
+Bottled Water,decision tree,Original,33.33333333333333,0.5,4,0,4
+Student Loan Debt Easier to Discharge in Bankruptcy,decision tree,Original,0.0,0.0,4,0,2
+Gun Control,decision tree,Original,64.1025641025641,0.6428571428571429,39,0,31
+Free Speech for White Supremacists,decision tree,Original,100.0,1.0,7,0,1
+Christianity and Homosexuality,decision tree,Original,0.0,0.0,2,0,2
+hillary clinton,decision tree,Original,36.30383389865351,0.4296875,112,166,361
+Christianity Supports Death Penalty,decision tree,Original,100.0,1.0,3,0,6
+DNA Testing Improved the Judicial System,decision tree,Original,33.33333333333333,0.5,5,0,5
+Separation of Church and State,decision tree,Original,50.0,0.52,58,0,64
+WADA Whereabouts Rule,decision tree,Original,100.0,1.0,4,0,6
+Obamacare Mental Illness Insurance,decision tree,Original,0.0,0.0,1,0,2
+Immigration,decision tree,Original,54.963084495488104,0.5573770491803278,149,0,155
+Fighting Allowed in Hockey,decision tree,Original,33.33333333333333,0.5,2,0,4
+Islam and Homosexuality,decision tree,Original,0.0,0.0,2,0,2
+Felons Voting for Democrats,decision tree,Original,33.33333333333333,0.5,5,0,3
+Lower Drinking Age,decision tree,Original,62.5,0.6666666666666666,31,0,26
+Oil Imports,decision tree,Original,14.285714285714285,0.16666666666666666,13,0,14
+climate change is a real concern,decision tree,Original,37.1174840205894,0.5443037974683544,212,168,15
+Buddhism and Homosexuality,decision tree,Original,33.33333333333333,0.5,6,0,2
+President Bush in Iraq,decision tree,Original,25.0,0.3333333333333333,5,0,7
+Prostitution,decision tree,Original,56.61846496106786,0.5666666666666667,157,0,139
+Prescription Drugs,decision tree,Original,49.494949494949495,0.5,26,0,21
+Tenured Teachers,decision tree,Original,60.606060606060595,0.6153846153846154,30,0,35
+Tablets Over Textbooks,decision tree,Original,37.5,0.4,23,0,25
+Penalties for Businesses not Providing Insurance for Employees,decision tree,Original,100.0,1.0,1,0,4
+Medical Marijuana,decision tree,Original,47.15099715099715,0.4716981132075472,123,0,138
+Remain on Parent's Health Insurance Until 26,decision tree,Original,0.0,0.0,2,0,1
+Help America Vote Act of 2002 Mandates the Use of Electronic Machines,decision tree,Original,33.33333333333333,0.5,3,0,3
+The ACLU is Anti-Religion,decision tree,Original,66.66666666666666,0.6666666666666666,5,0,6
+Dr. Jack Kevorkian,decision tree,Original,33.33333333333333,0.5,5,0,3
+Gold Standard Currency,decision tree,Original,29.292929292929294,0.3,30,0,20
+Sexual Orientation Connection With Finger Length,decision tree,Original,33.33333333333333,0.5,3,0,5
+War in Iraq,decision tree,Original,53.57142857142857,0.5384615384615384,32,0,33
+Sexuality is Genetic,decision tree,Original,100.0,1.0,2,0,8
+Privatized Social Security,decision tree,Original,55.00000000000001,0.5555555555555556,22,0,21
+Long Term Insurance is Offered in Health Insurance Exchanges,decision tree,Original,0.0,0.0,3,0,1
+STOCK Act,decision tree,Original,100.0,1.0,2,0,9
+The United States is a Christian Nation,decision tree,Original,33.33333333333333,0.5,6,0,12
+Milk,decision tree,Original,49.14207275223061,0.5128205128205128,100,0,95
+United Nations Biased Against Israel and For Palestine,decision tree,Original,33.33333333333333,0.5,6,0,4
+Oil Drilling,decision tree,Original,73.33333333333334,0.75,13,0,5
+Obamacare Coverage For Existing Conditions,decision tree,Original,100.0,1.0,0,0,6
+Humans Cause Climate Change,decision tree,Original,49.760765550239235,0.5333333333333333,43,0,30
+US Embargo Against Cuba,decision tree,Original,58.33333333333333,0.6,20,0,30
+Euthanasia,decision tree,Original,45.83333333333333,0.4583333333333333,119,0,120
+Qualification Testing,decision tree,Original,0.0,0.0,5,0,4
+Pledge of Allegiance,decision tree,Original,53.33333333333332,0.5714285714285714,18,0,17
+E-Verify,decision tree,Original,20.0,0.25,10,0,10
+Keep the US Penny,decision tree,Original,100.0,1.0,5,0,1
+Gay Marriage,decision tree,Original,35.38461538461539,0.35714285714285715,34,0,34
+Sexual Orientation Connected with Handedness,decision tree,Original,33.33333333333333,0.5,3,0,3
+Religious Undertones in Education,decision tree,Original,100.0,1.0,4,0,1
+Obamacare Payment Changes,decision tree,Original,33.33333333333333,0.5,3,0,3
+US Drone Strikes,decision tree,Original,60.0,0.6,24,0,25
+Obamacare Malpractice Law Change,decision tree,Original,0.0,0.0,2,0,1
+Government Blocked Clinical Trials of Marijuana,decision tree,Original,0.0,0.0,3,0,3
+People Learn to Realize Their Sexuality at a Certain Age,decision tree,Original,0.0,0.0,3,0,5
+Voting is a Privilege,decision tree,Original,33.33333333333333,0.5,4,0,2
+Social Media,decision tree,Original,54.65587044534412,0.5625,37,0,40
+Insider Trading,decision tree,Original,41.666666666666664,0.42857142857142855,14,0,18
+Vaccines For Children,decision tree,Original,50.0,0.5555555555555556,20,0,21
+Alternative Energy,decision tree,Original,39.82829413960433,0.40384615384615385,124,0,133
+Judaism Accepts Same-Sex Behavior,decision tree,Original,0.0,0.0,5,0,1
+Parent Sexuality Influences Child,decision tree,Original,20.0,0.25,11,0,5
+Pledge Of Allegiance,decision tree,Original,0.0,0.0,2,0,4
+College Education,decision tree,Original,37.77777777777778,0.4166666666666667,26,0,32
+Golf is a Sport,decision tree,Original,44.44444444444445,0.8,15,0,7
+Oil-for-Food Program,decision tree,Original,33.33333333333333,0.5,2,0,4
+Guns,decision tree,Original,61.904761904761905,0.625,18,0,18
+feminist movement,decision tree,Original,47.13649607342023,0.518796992481203,210,126,328
+Voting Machines,decision tree,Original,51.147822355717665,0.5217391304347826,190,0,155
+Obamacare and Undocumented Immigrants,decision tree,Original,0.0,0.0,1,0,3
+Relevancy of Animal Kingdom Homosexuality to Human Homosexuality,decision tree,Original,100.0,1.0,4,0,2
+Obamacare University Health Plans,decision tree,Original,0.0,0.0,1,0,2
+Penalties for Businesses that do not Provide Insurance for their Employees,decision tree,Original,100.0,1.0,0,0,2
+Privatized Voting Machines,decision tree,Original,0.0,0.0,1,0,5
+Cell Phone,decision tree,Original,65.0,0.7142857142857143,15,0,19
+Obamacare Minimum Coverage Level,decision tree,Original,0.0,0.0,1,0,1
+Lower Corporate Taxes,decision tree,Original,0.0,0.0,18,0,15
+Religious Undertones In Education,decision tree,Original,30.81232492997199,0.3157894736842105,50,0,44
+Contraception,decision tree,Original,27.27272727272727,0.375,17,0,22
+Nuclear Power,decision tree,Original,100.0,1.0,2,0,8
+Changing Sexual Orientation,decision tree,Original,28.571428571428577,0.2857142857142857,17,0,17
+Standardized Tests,decision tree,Original,23.52941176470588,0.23529411764705882,42,0,40
+Net Neutrality,decision tree,Original,100.0,1.0,6,0,0
+Obamacare Antitrust Laws,decision tree,Original,100.0,1.0,2,0,1
+Abortion,decision tree,Original,27.083333333333332,0.2857142857142857,35,0,35
+Sexuality Determined by Fraternal Birth Order Effect,decision tree,Original,0.0,0.0,1,0,3
+Congress Authority to Legislate Felon Disenfranchisement,decision tree,Original,0.0,0.0,3,0,2
+Obamacare,decision tree,Original,49.985132322331246,0.5,161,0,128
+Hormones Affect Sexuality,decision tree,Original,33.33333333333333,0.5,4,0,2
+Organic Milk is Healthier,decision tree,Original,100.0,1.0,0,0,7
+Income Affects Likelihood of Death Penalty,decision tree,Original,100.0,1.0,2,0,6
+Homosexuality,decision tree,Original,20.0,0.25,10,0,9
+Vegetarianism,decision tree,Original,42.857142857142854,0.42857142857142855,31,0,35
+Obamacare Coverage for Children,decision tree,Original,100.0,1.0,2,0,3
+Health Checks for Prostitutes,decision tree,Original,0.0,0.0,4,0,2
+Ronald Reagan,decision tree,Original,45.05494505494505,0.5,20,0,28
+Justice System Reform,decision tree,Original,33.33333333333333,0.5,5,0,3
+Obamacare Closes Loopholes,decision tree,Original,0.0,0.0,2,0,3
+Carbon Cap,decision tree,Original,40.0,0.6666666666666666,4,0,9
+1945 Antitrust Exemption for Health Insurance Companies,decision tree,Original,40.0,0.6666666666666666,9,0,3
+Death Penalty,decision tree,Original,49.896480331262936,0.5,114,0,104
+Obamacare Keep Coverage,decision tree,Original,100.0,1.0,2,0,3
+Solar Power,decision tree,Original,42.857142857142854,0.75,13,0,6
+Obamacare Payment Cuts,decision tree,Original,0.0,0.0,5,0,2
+Bill Clinton,decision tree,Original,55.00000000000001,0.5555555555555556,23,0,22
+Two-State Solution,decision tree,Original,54.17156286721504,0.5666666666666667,73,0,74
+Financial Motivations Encourage Insurance Companies to Promote Euthanasia,decision tree,Original,33.33333333333333,0.5,4,0,6
+Homework,decision tree,Original,0.0,0.0,3,0,3
+Video Games,decision tree,Original,48.57142857142858,0.5,20,0,40
+Voting Machine Open Source Code,decision tree,Original,66.66666666666666,0.6666666666666666,5,0,6
+Public Shaming of Criminals,decision tree,Original,33.33333333333333,0.5,3,0,4
+Experimenting on Animals,decision tree,Original,55.55555555555556,0.5833333333333334,33,0,25
+legalization of abortion,decision tree,Original,39.39763939763941,0.4793388429752066,105,164,334
+Voter Verified Paper Audit Trails,decision tree,Original,40.0,0.6666666666666666,7,0,7
+Voting Rights for Felons,decision tree,Original,39.61352657004831,0.4,58,0,64
+Obesity is a Disease,decision tree,Original,36.50793650793651,0.375,21,0,18
+Congressional Insider Trading,decision tree,Original,28.571428571428577,0.4,14,0,9
+Hinduism Accepts Homosexuality,decision tree,Original,100.0,1.0,1,0,6
+Develop Carbon Capture and Storage Technology,decision tree,Original,0.0,0.0,7,0,5
+Universal Health Care,decision tree,Original,45.05494505494506,0.5,26,0,24
+CBD is Psychoactive,decision tree,Original,100.0,1.0,4,0,2
+Natural Gas,decision tree,Original,33.33333333333333,0.5,3,0,7
+Race Affects Likelihood of Death Penalty,decision tree,Original,25.0,0.3333333333333333,3,0,9
+School Uniforms,decision tree,Original,32.5,0.3333333333333333,28,0,17
+Probation or Parole is Valid Imprisonment,decision tree,Original,33.33333333333333,0.5,2,0,4
+ACLU is Communist or Left-Wing,decision tree,Original,25.0,0.3333333333333333,8,0,4
+atheism,decision tree,Original,47.655715544463966,0.5533980582524272,92,117,304
+Accuracy of Ballot Definition Files,decision tree,Original,100.0,1.0,5,0,2
+Corporal Punishment,decision tree,Original,33.33333333333333,0.5,3,0,3
+Performance Enhancing Drugs,decision tree,Original,50.333817126269956,0.5084745762711864,143,0,151
+Health Insurance Exchanges,decision tree,Original,66.66666666666666,0.6666666666666666,7,0,6
+Raw Milk,decision tree,Original,25.0,0.3333333333333333,11,0,4
+ACLU,decision tree,Original,60.11396011396012,0.65,52,0,48
+Pornography is Prostitution,decision tree,Original,33.33333333333333,0.5,4,0,3
+Equal Healthcare Distribution,decision tree,Original,33.33333333333333,0.5,5,0,1
+Effective Existing Efforts for Performance Enhancing Drugs,decision tree,Original,40.0,0.6666666666666666,8,0,6
+Therapy,decision tree,Original,100.0,1.0,2,0,3
+Minimum Wage Increase,decision tree,Original,57.51633986928104,0.6153846153846154,31,0,31
+Marijuana,decision tree,Original,54.41176470588235,0.5483870967741935,69,0,82
+Sanctuary Jurisdictions,decision tree,Original,33.33333333333333,0.5,4,0,6
+Obamacare Taxes On Upper Bracket,decision tree,Original,0.0,0.0,4,0,1
+Oil Production at its Peak,decision tree,Original,66.66666666666666,0.6666666666666666,7,0,5
+Vaping,decision tree,Original,33.33333333333333,0.5,2,0,4
+Gender Roles,decision tree,Original,100.0,1.0,3,0,5
+Government Involvement in Terri Schiavo's End-of-Life Decisions,decision tree,Original,0.0,0.0,2,0,5
+Clemency is a Safeguard in Capital Punishment Cases,decision tree,Original,33.33333333333333,0.5,2,0,6
+Biofuel Production Causes Food Crisis,decision tree,Original,33.33333333333333,0.5,4,0,6
+Christianity Supports Death Penalty,decision tree,Backtranslated,100.0,1.0,3,0,6
+Obamacare Exemptions to Mandatory Insurance,decision tree,Backtranslated,100.0,1.0,18,0,0
+Bottled Water,decision tree,Backtranslated,91.6083916083916,0.9166666666666666,28,0,28
+Student Loan Debt Easier to Discharge in Bankruptcy,decision tree,Backtranslated,56.363636363636374,0.625,25,0,14
+Gun Control,decision tree,Backtranslated,78.94674133206243,0.7956989247311828,263,0,201
+Free Speech for White Supremacists,decision tree,Backtranslated,100.0,1.0,38,0,7
+Christianity and Homosexuality,decision tree,Backtranslated,100.0,1.0,14,0,14
+hillary clinton,decision tree,Backtranslated,66.30389568689165,0.7007299270072993,357,524,1172
+Christianity Supports Death Penalty,decision tree,Backtranslated,69.44444444444444,0.8181818181818182,17,0,37
+DNA Testing Improved the Judicial System,decision tree,Backtranslated,92.82051282051282,0.9285714285714286,33,0,34
+Separation of Church and State,decision tree,Backtranslated,82.67245037484086,0.8299319727891157,350,0,382
+WADA Whereabouts Rule,decision tree,Backtranslated,78.46153846153845,0.7857142857142857,26,0,41
+Obamacare Mental Illness Insurance,decision tree,Backtranslated,100.0,1.0,6,0,12
+Immigration,decision tree,Backtranslated,66.5163772243378,0.6675126903553299,959,0,1011
+Fighting Allowed in Hockey,decision tree,Backtranslated,77.49999999999999,0.7777777777777778,14,0,27
+Islam and Homosexuality,decision tree,Backtranslated,58.33333333333333,0.6,11,0,12
+Felons Voting for Democrats,decision tree,Backtranslated,67.85714285714286,0.7777777777777778,29,0,15
+Lower Drinking Age,decision tree,Backtranslated,91.76691729323309,0.9178082191780822,196,0,167
+Oil Imports,decision tree,Backtranslated,91.16904962153069,0.9142857142857143,84,0,87
+climate change is a real concern,decision tree,Backtranslated,64.83735419836268,0.7172131147540983,640,533,47
+Buddhism and Homosexuality,decision tree,Backtranslated,87.05882352941177,0.9090909090909091,38,0,14
+President Bush in Iraq,decision tree,Backtranslated,86.60714285714286,0.8666666666666667,32,0,39
+Prostitution,decision tree,Backtranslated,70.58025381115812,0.7061855670103093,1028,0,909
+Prescription Drugs,decision tree,Backtranslated,78.27903091060986,0.7833333333333333,166,0,134
+Tenured Teachers,decision tree,Backtranslated,85.12851897184822,0.8518518518518519,190,0,213
+Tablets Over Textbooks,decision tree,Backtranslated,86.5934065934066,0.8688524590163934,144,0,159
+Penalties for Businesses not Providing Insurance for Employees,decision tree,Backtranslated,100.0,1.0,5,0,26
+Medical Marijuana,decision tree,Backtranslated,81.13755546591368,0.811377245508982,786,0,883
+Remain on Parent's Health Insurance Until 26,decision tree,Backtranslated,100.0,1.0,11,0,7
+Help America Vote Act of 2002 Mandates the Use of Electronic Machines,decision tree,Backtranslated,100.0,1.0,18,0,19
+The ACLU is Anti-Religion,decision tree,Backtranslated,69.04761904761905,0.6923076923076923,30,0,35
+Dr. Jack Kevorkian,decision tree,Backtranslated,100.0,1.0,31,0,18
+Gold Standard Currency,decision tree,Backtranslated,77.10437710437711,0.7794117647058824,204,0,135
+Sexual Orientation Connection With Finger Length,decision tree,Backtranslated,100.0,1.0,19,0,31
+War in Iraq,decision tree,Backtranslated,77.44360902255639,0.775,196,0,200
+Sexuality is Genetic,decision tree,Backtranslated,47.82608695652174,0.9166666666666666,11,0,49
+Privatized Social Security,decision tree,Backtranslated,75.22522522522522,0.7818181818181819,138,0,136
+Long Term Insurance is Offered in Health Insurance Exchanges,decision tree,Backtranslated,100.0,1.0,17,0,7
+STOCK Act,decision tree,Backtranslated,82.95454545454545,0.8666666666666667,13,0,58
+The United States is a Christian Nation,decision tree,Backtranslated,95.20697167755992,0.9545454545454546,34,0,73
+Milk,decision tree,Backtranslated,69.1410940373596,0.6926070038910506,654,0,631
+United Nations Biased Against Israel and For Palestine,decision tree,Backtranslated,100.0,1.0,34,0,25
+Oil Drilling,decision tree,Backtranslated,85.16129032258064,0.8695652173913043,82,0,32
+Obamacare Coverage For Existing Conditions,decision tree,Backtranslated,100.0,1.0,0,0,36
+Humans Cause Climate Change,decision tree,Backtranslated,75.4010695187166,0.7653061224489796,295,0,195
+US Embargo Against Cuba,decision tree,Backtranslated,81.15501519756839,0.8225806451612904,122,0,185
+Euthanasia,decision tree,Backtranslated,76.01577909270218,0.7631578947368421,746,0,771
+Qualification Testing,decision tree,Backtranslated,80.35714285714286,0.8181818181818182,30,0,24
+Pledge of Allegiance,decision tree,Backtranslated,81.26286890871654,0.8205128205128205,97,0,95
+E-Verify,decision tree,Backtranslated,95.89490968801313,0.96,62,0,62
+Keep the US Penny,decision tree,Backtranslated,100.0,1.0,33,0,7
+Gay Marriage,decision tree,Backtranslated,76.74333698430085,0.7692307692307693,228,0,227
+Sexual Orientation Connected with Handedness,decision tree,Backtranslated,87.3015873015873,0.875,19,0,17
+Religious Undertones in Education,decision tree,Backtranslated,100.0,1.0,23,0,5
+Obamacare Payment Changes,decision tree,Backtranslated,78.78787878787878,0.8571428571428571,17,0,15
+US Drone Strikes,decision tree,Backtranslated,87.61904761904762,0.8769230769230769,157,0,164
+Obamacare Malpractice Law Change,decision tree,Backtranslated,100.0,1.0,13,0,6
+Government Blocked Clinical Trials of Marijuana,decision tree,Backtranslated,84.44444444444446,0.8571428571428571,18,0,16
+People Learn to Realize Their Sexuality at a Certain Age,decision tree,Backtranslated,100.0,1.0,21,0,29
+Voting is a Privilege,decision tree,Backtranslated,79.48717948717949,0.875,26,0,11
+Social Media,decision tree,Backtranslated,80.35850495804729,0.8058252427184466,247,0,267
+Insider Trading,decision tree,Backtranslated,80.9090909090909,0.8095238095238095,91,0,115
+Vaccines For Children,decision tree,Backtranslated,76.33234028467395,0.7636363636363637,135,0,138
+Alternative Energy,decision tree,Backtranslated,71.32934131736526,0.7134502923976608,820,0,888
+Judaism Accepts Same-Sex Behavior,decision tree,Backtranslated,100.0,1.0,34,0,6
+Parent Sexuality Influences Child,decision tree,Backtranslated,93.841642228739,0.9523809523809523,69,0,33
+Pledge Of Allegiance,decision tree,Backtranslated,73.33333333333334,0.75,10,0,26
+College Education,decision tree,Backtranslated,84.61538461538461,0.8461538461538461,177,0,213
+Golf is a Sport,decision tree,Backtranslated,89.4927536231884,0.9310344827586207,100,0,43
+Oil-for-Food Program,decision tree,Backtranslated,100.0,1.0,11,0,21
+Guns,decision tree,Backtranslated,86.30952380952381,0.8695652173913043,115,0,112
+feminist movement,decision tree,Backtranslated,65.41896860424397,0.6813725490196079,631,391,1017
+Voting Machines,decision tree,Backtranslated,73.94955186795633,0.7423887587822015,1177,0,954
+Obamacare and Undocumented Immigrants,decision tree,Backtranslated,80.0,0.8,6,0,16
+Relevancy of Animal Kingdom Homosexuality to Human Homosexuality,decision tree,Backtranslated,61.904761904761905,0.625,27,0,12
+Obamacare University Health Plans,decision tree,Backtranslated,100.0,1.0,7,0,11
+Penalties for Businesses that do not Provide Insurance for their Employees,decision tree,Backtranslated,100.0,1.0,0,0,12
+Privatized Voting Machines,decision tree,Backtranslated,67.85714285714286,0.7777777777777778,7,0,34
+Cell Phone,decision tree,Backtranslated,88.68778280542988,0.8888888888888888,102,0,120
+Obamacare Minimum Coverage Level,decision tree,Backtranslated,100.0,1.0,5,0,7
+Lower Corporate Taxes,decision tree,Backtranslated,79.53488372093022,0.7954545454545454,118,0,98
+Religious Undertones In Education,decision tree,Backtranslated,68.79960317460318,0.6936936936936937,297,0,255
+Contraception,decision tree,Backtranslated,80.20186335403727,0.803921568627451,112,0,139
+Nuclear Power,decision tree,Backtranslated,100.0,1.0,14,0,51
+Changing Sexual Orientation,decision tree,Backtranslated,92.85309132161088,0.9285714285714286,111,0,98
+Standardized Tests,decision tree,Backtranslated,76.56181547358275,0.7663551401869159,273,0,260
+Net Neutrality,decision tree,Backtranslated,100.0,1.0,39,0,0
+Obamacare Antitrust Laws,decision tree,Backtranslated,100.0,1.0,11,0,6
+Abortion,decision tree,Backtranslated,86.1561119293078,0.8617021276595744,233,0,236
+Sexuality Determined by Fraternal Birth Order Effect,decision tree,Backtranslated,82.85714285714285,0.8333333333333334,7,0,20
+Congress Authority to Legislate Felon Disenfranchisement,decision tree,Backtranslated,100.0,1.0,16,0,12
+Obamacare,decision tree,Backtranslated,74.44466600199402,0.7527777777777778,1008,0,788
+Hormones Affect Sexuality,decision tree,Backtranslated,100.0,1.0,26,0,12
+Organic Milk is Healthier,decision tree,Backtranslated,100.0,1.0,0,0,44
+Income Affects Likelihood of Death Penalty,decision tree,Backtranslated,100.0,1.0,11,0,39
+Homosexuality,decision tree,Backtranslated,80.03072196620585,0.8076923076923077,68,0,59
+Vegetarianism,decision tree,Backtranslated,74.94824016563147,0.75,206,0,232
+Obamacare Coverage for Children,decision tree,Backtranslated,77.77777777777779,0.8333333333333334,12,0,17
+Health Checks for Prostitutes,decision tree,Backtranslated,85.45454545454545,0.875,26,0,12
+Ronald Reagan,decision tree,Backtranslated,73.33333333333334,0.75,125,0,174
+Justice System Reform,decision tree,Backtranslated,86.15384615384616,0.8888888888888888,29,0,16
+Obamacare Closes Loopholes,decision tree,Backtranslated,100.0,1.0,12,0,17
+Carbon Cap,decision tree,Backtranslated,80.56680161943319,0.8125,25,0,55
+1945 Antitrust Exemption for Health Insurance Companies,decision tree,Backtranslated,79.16666666666666,0.8666666666666667,57,0,18
+Death Penalty,decision tree,Backtranslated,70.29310631335403,0.7035714285714286,737,0,662
+Obamacare Keep Coverage,decision tree,Backtranslated,100.0,1.0,14,0,18
+Solar Power,decision tree,Backtranslated,90.07936507936508,0.92,85,0,40
+Obamacare Payment Cuts,decision tree,Backtranslated,87.3015873015873,0.875,28,0,10
+Bill Clinton,decision tree,Backtranslated,86.19047619047619,0.8620689655172413,146,0,140
+Two-State Solution,decision tree,Backtranslated,57.86943319838056,0.5888888888888889,452,0,447
+Financial Motivations Encourage Insurance Companies to Promote Euthanasia,decision tree,Backtranslated,90.22556390977444,0.9230769230769231,25,0,37
+Homework,decision tree,Backtranslated,74.99999999999999,0.75,20,0,20
+Video Games,decision tree,Backtranslated,88.18011257035647,0.9135802469135802,135,0,268
+Voting Machine Open Source Code,decision tree,Backtranslated,70.83333333333333,0.7142857142857143,30,0,36
+Public Shaming of Criminals,decision tree,Backtranslated,88.8888888888889,0.8888888888888888,18,0,24
+Experimenting on Animals,decision tree,Backtranslated,80.50974512743629,0.8076923076923077,220,0,170
+legalization of abortion,decision tree,Backtranslated,68.23431082991011,0.7301587301587301,336,511,1040
+Voter Verified Paper Audit Trails,decision tree,Backtranslated,100.0,1.0,43,0,42
+Voting Rights for Felons,decision tree,Backtranslated,78.51478010093729,0.785234899328859,351,0,391
+Obesity is a Disease,decision tree,Backtranslated,67.94871794871796,0.68,131,0,116
+Congressional Insider Trading,decision tree,Backtranslated,86.0576923076923,0.8620689655172413,85,0,58
+Hinduism Accepts Homosexuality,decision tree,Backtranslated,100.0,1.0,6,0,37
+Develop Carbon Capture and Storage Technology,decision tree,Backtranslated,93.28063241106719,0.9411764705882353,46,0,35
+Universal Health Care,decision tree,Backtranslated,82.85714285714285,0.8333333333333334,173,0,157
+CBD is Psychoactive,decision tree,Backtranslated,100.0,1.0,23,0,12
+Natural Gas,decision tree,Backtranslated,75.43859649122805,0.7857142857142857,21,0,48
+Race Affects Likelihood of Death Penalty,decision tree,Backtranslated,76.81159420289853,0.8125,18,0,60
+School Uniforms,decision tree,Backtranslated,78.67132867132867,0.8032786885245902,188,0,114
+Probation or Parole is Valid Imprisonment,decision tree,Backtranslated,46.15384615384615,0.8571428571428571,10,0,22
+ACLU is Communist or Left-Wing,decision tree,Backtranslated,90.6832298136646,0.9333333333333333,46,0,25
+atheism,decision tree,Backtranslated,65.27953647212308,0.7096774193548387,269,350,928
+Accuracy of Ballot Definition Files,decision tree,Backtranslated,76.19047619047619,0.8,32,0,14
+Corporal Punishment,decision tree,Backtranslated,74.99999999999999,0.75,20,0,19
+Performance Enhancing Drugs,decision tree,Backtranslated,73.25125306960003,0.7331606217616581,933,0,993
+Health Insurance Exchanges,decision tree,Backtranslated,88.75,0.8888888888888888,47,0,39
+Raw Milk,decision tree,Backtranslated,80.3921568627451,0.9,73,0,27
+ACLU,decision tree,Backtranslated,79.7979797979798,0.8,308,0,289
+Pornography is Prostitution,decision tree,Backtranslated,88.31168831168831,0.8888888888888888,24,0,18
+Equal Healthcare Distribution,decision tree,Backtranslated,100.0,1.0,33,0,7
+Effective Existing Efforts for Performance Enhancing Drugs,decision tree,Backtranslated,88.19444444444446,0.8823529411764706,47,0,38
+Therapy,decision tree,Backtranslated,84.44444444444446,0.8571428571428571,11,0,20
+Minimum Wage Increase,decision tree,Backtranslated,67.48387096774194,0.6785714285714286,209,0,211
+Marijuana,decision tree,Backtranslated,80.26797244941886,0.8031088082901554,434,0,527
+Sanctuary Jurisdictions,decision tree,Backtranslated,75.43859649122805,0.7857142857142857,27,0,39
+Obamacare Taxes On Upper Bracket,decision tree,Backtranslated,78.78787878787878,0.8571428571428571,26,0,7
+Oil Production at its Peak,decision tree,Backtranslated,100.0,1.0,47,0,32
+Vaping,decision tree,Backtranslated,80.0,0.8888888888888888,13,0,28
+Gender Roles,decision tree,Backtranslated,100.0,1.0,18,0,30
+Government Involvement in Terri Schiavo's End-of-Life Decisions,decision tree,Backtranslated,100.0,1.0,12,0,27
+Clemency is a Safeguard in Capital Punishment Cases,decision tree,Backtranslated,86.66666666666667,0.9,12,0,37
+Biofuel Production Causes Food Crisis,decision tree,Backtranslated,85.41666666666667,0.8571428571428571,28,0,41
